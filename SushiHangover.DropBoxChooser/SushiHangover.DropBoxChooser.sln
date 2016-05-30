@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SushiHangover.DropBoxChooser.Example", "SushiHangover.DropBoxChooser.Example\SushiHangover.DropBoxChooser.Example.csproj", "{D0E4CCB5-D6F2-420C-A9F1-AD838CA0E755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SushiHangover.DropBoxChooser", "SushiHangover.DropBoxChooser\SushiHangover.DropBoxChooser.csproj", "{E8056E80-885F-4855-9A3A-59280C13AF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E4CCB5-D6F2-420C-A9F1-AD838CA0E755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E4CCB5-D6F2-420C-A9F1-AD838CA0E755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E4CCB5-D6F2-420C-A9F1-AD838CA0E755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E4CCB5-D6F2-420C-A9F1-AD838CA0E755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8056E80-885F-4855-9A3A-59280C13AF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8056E80-885F-4855-9A3A-59280C13AF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8056E80-885F-4855-9A3A-59280C13AF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8056E80-885F-4855-9A3A-59280C13AF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
